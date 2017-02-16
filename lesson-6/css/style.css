@@ -1,0 +1,29 @@
+section#top 
+{
+height: 500px;
+background-image: url(img/ang.jpg);
+background-repeat: no-repeat;
+width: 250px;
+background-position: center left;
+}
+
+.korz-img 
+{
+	width: 45px;
+	padding-top: 446px;
+padding-left: 90px;
+}
+
+section#example_1 
+{
+
+	height: 100vh;
+	background-image: url(..img/fon.jpg);
+}
+
+section#example-2
+{
+height:100vh;
+background-image: url(..img/padding.png);
+background-repeat: repead;
+}
