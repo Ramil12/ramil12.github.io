@@ -1,6 +1,9 @@
-section#main {
-	background-color: #a400ae;
-	 height: 100 vh;
+section#main
+{ background-color: #a400ae;
+	height: 100 vh;
 }
-
-.row-text-center {}
+h1
+{
+	color: #fff;
+	text-transform: uppercase;
+}
