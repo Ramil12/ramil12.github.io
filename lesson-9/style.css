@@ -1,5 +1,9 @@
 section#main
 { background-color: #a400ae;
 	height: 100vh;
-
+}
+h1
+{
+	color: #fff;
+	text-transform: uppercase;
 }
