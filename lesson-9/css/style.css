@@ -6,7 +6,7 @@ overflow: hidden;
 section#main
 { background-color: #a400ae;
 	width: 100wh;
-	height: 100vh;
+	height: 100 vh;
 }
 .main_header {
 	margin-top:25%; 
