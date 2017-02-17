@@ -8,7 +8,9 @@ section#main
 	width: 100wh;
 	height: 100vh;
 }
-
+.main_header {
+	margin-top:35%; 
+}
 h1
 {
 	color: #fff;
