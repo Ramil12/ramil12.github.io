@@ -1,7 +1,14 @@
+body
+{ margin: 0;
+	padding: 0;
+overflow: hidden;
+}
 section#main
 { background-color: #a400ae;
-	height: 100 vh;
+	width: 100wh;
+	height: 100vh;
 }
+
 h1
 {
 	color: #fff;
