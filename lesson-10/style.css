@@ -3,5 +3,7 @@ background-color: red;
 width: 100px;
 height: 100px;
 border: 10px solid green
+border-bottom-color: blue;
+border-top-color: purple;
 }
 
