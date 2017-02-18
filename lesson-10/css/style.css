@@ -1,6 +1,15 @@
+* {
+ box-sizing: border-box;	
+}
 .box {
-background-color: red;
+background - color: red;
 width: 100px;
-height: 100px;
-border-radius: 20px;
+height: 100px;	
+border: 20px solid #000;
+padding: 10px;
+}
+.box2 {
+width: 130px;
+height: 130px;
+background-color: gray;
 }
