@@ -1,0 +1,48 @@
+/* fots files */
+.opn-red {
+	font-family: 'Open Sans' sans-serif;
+	font-weight: 400;
+}
+.opn-bold {
+font-family: 'Open Sans' sans-serif;
+	font-weight: 600;
+}
+/* Base colots */
+@base-black: #706b73;
+@base-red: #fc6744
+@white: #fff;
+@base-text: #626262;
+@bg-grey: #f5f5f5;
+body {
+	font-size: 14px;
+   .opn-reg;
+color: @base-text;
+}
+input, button, textarea {
+  &:focus {
+ outline: none;
+ }
+}
+header {
+background: @bg-grey 
+background-size: cover;
+min-height: 700px;
+height: 100 vh;
+}
+.main {
+	&-head{
+	margin-top: 3%
+}
+&-logo-border {
+text-align: center;
+width: 155px;
+height: 55px;
+border: 3px solid @base-black	
+line-height: 49px;
+p {
+	 .opn-bold;
+	 font-size:36px;
+}
+}
+
+}
