@@ -15,11 +15,11 @@ font-family: 'Open Sans' sans-serif;
 @bg-grey: #f5f5f5;
 body {
 	font-size: 14px;
-   .opn-reg;
+   .opn-red ;
 color: @base-text;
 }
 input, button, textarea {
-  &:focus {
+ &focus {
  outline: none;
  }
 }
@@ -43,6 +43,4 @@ p {
 	 .opn-bold;
 	 font-size:36px;
 }
-}
 
-}
