@@ -24,10 +24,10 @@ input, button, textarea {
  }
 }
 header {
-background: @bg-grey url(../img/main-bg.jpg) no-reneart center center;
+background: @bg-greу url(../img/main-bg.jpg) no-reneart center center;
 background-size: cover;
 min-height: 700px;
-height: 100 vh;
+height: 100vh;
 }
 .main {
 	&-head{
