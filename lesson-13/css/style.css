@@ -30,16 +30,16 @@ min-height: 700px;
 height: 100vh;
 }
 .main {
-	&-head{
+	&-head;
 	margin-top: 3%
 }
 &-logo-border {
 text-align: center;
 width: 155px;
 height: 55px;
-border: 3px solid @base-black	
+border: 3px solid @base-black;	
 line-height: 49px;
-padding: {
+p {
 	 .opn-bold;
 	 font-size:36px;
      color: lighten (@base-red; 5%)
