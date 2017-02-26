@@ -1,4 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-<h1 {
- font-family: 'Open Sans', sans-serif;
-}
+@fant-face {
+   font-family: 'openSansExtrabold';
+   src: url('../fonts/openSansExtrabold.eot');
+   src: url('../fonts/openSansExtrabold.eot') format('embedded - opentype'),
+        url('../fonts/openSansExtrabold.woff2') format('woff2'),
+        url('../format/openSansExtrabold.woff') format('woff'),
+        url('../format/openSansExtrabold.ttf') format('truetype'),
+        url('../format/openSansExtrabold.svg#openSansExtrabold') format('svg')
+        };
+     }
+    p {
+      font-family: 'openSansExtrabold', sans-serif;
+    } 
